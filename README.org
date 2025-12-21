@@ -4,7 +4,7 @@
 
 |---------+-------------------------------------------|
 | source  | git:https://github.com/malcolmstill/cl-xkb.git   |
-| commit  | 3807a26  |
+| commit  | 798ee32  |
 | systems | cl-xkb |
 |---------+-------------------------------------------|
 
